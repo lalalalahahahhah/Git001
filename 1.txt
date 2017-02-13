@@ -1,0 +1,12 @@
+﻿total 0
+-rw-r--r-- 1 Administrator 197121 0 二月 13 11:36 1.txt
+drwxr-xr-x 1 Administrator 197121 0 二月 13 11:27 css/
+drwxr-xr-x 1 Administrator 197121 0 二月 13 11:27 js/
+
+aaaaaa
+bbbbbbb
+ccccccccctotal 1
+-rw-r--r-- 1dffcccxxxxxxxxxxxxxA Administrator 197121 212 二月 13 11:36 1.txt
+
+哈哈哈哈哈
+嘎嘎嘎嘎
